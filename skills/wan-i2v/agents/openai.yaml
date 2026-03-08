@@ -1,0 +1,9 @@
+﻿interface:
+  display_name: "Wan I2V / Wan 图生视频"
+  short_description: "Reuse stable Wan I2V settings for this 16GB desktop GPU. / 复用适合这台 16GB 台式机显卡的稳定 Wan 图生视频参数。"
+  icon_small: "./assets/wan-i2v-small.svg"
+  icon_large: "./assets/wan-i2v.png"
+  default_prompt: "Use $wan-i2v to generate a stable ComfyUI Wan image-to-video clip on this machine. / 使用 $wan-i2v 在这台机器上生成稳定的 ComfyUI Wan 图生视频。"
+
+policy:
+  allow_implicit_invocation: true
