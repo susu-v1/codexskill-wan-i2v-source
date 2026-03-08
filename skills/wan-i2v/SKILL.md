@@ -1,6 +1,6 @@
-﻿---
+---
 name: wan-i2v
-description: Stable ComfyUI Wan image-to-video workflow for this Windows desktop with an RTX 5070 Ti 16GB GPU. Use when generating or iterating local Wan 2.1 I2V clips in G:\ComfyUI_windows_portable, especially for safe parameter selection, crash avoidance, reusable API templates, and 480p-to-1080p upscale workflow. / 适用于这台 RTX 5070 Ti 16GB Windows 台式机的稳定 ComfyUI Wan 图生视频工作流。用于在 G:\ComfyUI_windows_portable 本地生成或迭代 Wan 2.1 I2V 视频，重点覆盖安全参数选择、崩溃规避、可复用 API 模板，以及 480p 到 1080p 的放大流程。
+description: Stable ComfyUI Wan image-to-video workflow for this Windows desktop with an RTX 5070 Ti 16GB GPU. Use when generating or iterating local Wan 2.1 I2V clips in G:\ComfyUI_windows_portable, especially for safe parameter selection, crash avoidance, reusable API templates, and 480p-to-1080p upscale workflow.
 ---
 
 # ComfyUI Wan I2V Safe
