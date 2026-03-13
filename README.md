@@ -9,5 +9,5 @@ Install target path inside the repo:
 Example installer command:
 
 ```powershell
-python C:\Users\suzu_\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo OWNER/REPO --path skills/wan-i2v
+python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo susu-v1/codexskill-wan-i2v-source --path skills/wan-i2v
 ```
